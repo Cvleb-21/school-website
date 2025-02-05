@@ -74,7 +74,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Phone</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+254 721 496 244</p>
                 </div>
               </div>
 
@@ -84,7 +84,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Email</h3>
-                  <p className="text-gray-600">info@academia.edu</p>
+                  <p className="text-gray-600">caleb.irungu21@gmail.com</p>
                 </div>
               </div>
 
@@ -94,7 +94,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Address</h3>
-                  <p className="text-gray-600">123 Education St, Learning City</p>
+                  <p className="text-gray-600">123 Nairobi</p>
                 </div>
               </div>
             </div>
